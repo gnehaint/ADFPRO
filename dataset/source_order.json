@@ -1,0 +1,13 @@
+{
+	"name": "source_order",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_databse",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
